@@ -31,4 +31,4 @@ myOrder == Yes and i = 1:
 listOfOrders = ["Cofee" "Cake" "Tea"]
 
   if myOrder == yes and i = 3:
-    number = int(input(
+    number = int(input( 
